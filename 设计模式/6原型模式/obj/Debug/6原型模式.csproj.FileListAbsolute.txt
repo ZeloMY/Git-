@@ -1,0 +1,5 @@
+C:\Users\zhangmuyang\Desktop\设计模式\设计模式\6原型模式\bin\Debug\6原型模式.exe
+C:\Users\zhangmuyang\Desktop\设计模式\设计模式\6原型模式\bin\Debug\6原型模式.pdb
+C:\Users\zhangmuyang\Desktop\设计模式\设计模式\6原型模式\obj\Debug\6原型模式.csprojResolveAssemblyReference.cache
+C:\Users\zhangmuyang\Desktop\设计模式\设计模式\6原型模式\obj\Debug\6原型模式.exe
+C:\Users\zhangmuyang\Desktop\设计模式\设计模式\6原型模式\obj\Debug\6原型模式.pdb

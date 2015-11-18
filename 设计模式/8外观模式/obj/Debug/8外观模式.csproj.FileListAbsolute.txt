@@ -1,0 +1,4 @@
+C:\Users\zhangmuyang\Desktop\设计模式\设计模式\8外观模式\bin\Debug\8外观模式.exe
+C:\Users\zhangmuyang\Desktop\设计模式\设计模式\8外观模式\bin\Debug\8外观模式.pdb
+C:\Users\zhangmuyang\Desktop\设计模式\设计模式\8外观模式\obj\Debug\8外观模式.exe
+C:\Users\zhangmuyang\Desktop\设计模式\设计模式\8外观模式\obj\Debug\8外观模式.pdb

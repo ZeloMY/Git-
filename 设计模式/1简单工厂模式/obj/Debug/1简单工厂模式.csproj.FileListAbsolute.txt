@@ -1,0 +1,5 @@
+C:\Users\zhangmuyang\Desktop\设计模式\设计模式\1简单工厂模式\bin\Debug\1简单工厂模式.exe
+C:\Users\zhangmuyang\Desktop\设计模式\设计模式\1简单工厂模式\bin\Debug\1简单工厂模式.pdb
+C:\Users\zhangmuyang\Desktop\设计模式\设计模式\1简单工厂模式\obj\Debug\1简单工厂模式.csprojResolveAssemblyReference.cache
+C:\Users\zhangmuyang\Desktop\设计模式\设计模式\1简单工厂模式\obj\Debug\1简单工厂模式.exe
+C:\Users\zhangmuyang\Desktop\设计模式\设计模式\1简单工厂模式\obj\Debug\1简单工厂模式.pdb

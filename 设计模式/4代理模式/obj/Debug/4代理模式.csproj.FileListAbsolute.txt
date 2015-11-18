@@ -1,0 +1,4 @@
+C:\Users\zhangmuyang\Desktop\设计模式\设计模式\4代理模式\bin\Debug\4代理模式.exe
+C:\Users\zhangmuyang\Desktop\设计模式\设计模式\4代理模式\bin\Debug\4代理模式.pdb
+C:\Users\zhangmuyang\Desktop\设计模式\设计模式\4代理模式\obj\Debug\4代理模式.exe
+C:\Users\zhangmuyang\Desktop\设计模式\设计模式\4代理模式\obj\Debug\4代理模式.pdb
